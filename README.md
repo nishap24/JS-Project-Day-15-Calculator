@@ -15,7 +15,7 @@ A simple and user-friendly web-based calculator built using HTML, CSS, and JavaS
 
 Live Demo:
 
-   
+  https://nishap24.github.io/JS-Project-Day-15-Calculator/  
     
 ## Getting Started
 
