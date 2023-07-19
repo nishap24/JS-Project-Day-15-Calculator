@@ -48,6 +48,12 @@ multiplication, and division.
 6. Use of popular web fonts for improved typography.
 
 7. Integration of Font Awesome icons for enhanced aesthetics.
+
+## Deployment Status
+
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/42f77327-7346-45eb-a0f4-20d3db857817/deploy-status)](https://app.netlify.com/sites/kanasu-calculator/deploys)
+
 ## Contributing
 
 Contributions are always welcome!
